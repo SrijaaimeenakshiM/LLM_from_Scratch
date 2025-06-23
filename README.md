@@ -3,7 +3,7 @@
 This repository contains educational and research-oriented projects focused on building and fine-tuning Language Models from scratch using GPT-2 weights. It includes three major components:
 
 📂 Project Structure
-
+```
 📦 LLM Projects Repository
 ├── datasets/
 │   ├── SMSSpamCollection
@@ -14,6 +14,8 @@ This repository contains educational and research-oriented projects focused on b
 ├── spam_classifier_from_scratch.ipynb
 ├── LLM_instruction_finetuning_from_scratch.ipynb
 └── README.md
+
+```
 
 
 📌 Contents
