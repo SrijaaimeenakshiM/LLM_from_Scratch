@@ -4,7 +4,17 @@ This repository contains educational and research-oriented projects focused on b
 
 📂 Project Structure
 
-<pre> <code> 📦 LLM Projects Repository ├── datasets/ │ ├── SMSSpamCollection │ ├── instruction-data.json │ └── the-verdict.txt │ ├── llm_from_scratch.ipynb ├── spam_classifier_from_scratch.ipynb ├── LLM_instruction_finetuning_from_scratch.ipynb └── README.md </code> </pre>
+📦 LLM Projects Repository
+├── datasets/
+│   ├── SMSSpamCollection
+│   ├── instruction-data.json
+│   └── the-verdict.txt
+│
+├── llm_from_scratch.ipynb
+├── spam_classifier_from_scratch.ipynb
+├── LLM_instruction_finetuning_from_scratch.ipynb
+└── README.md
+
 
 📌 Contents
 
